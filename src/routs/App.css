@@ -1,0 +1,16 @@
+.app-container {
+  display: flex;
+}
+
+.app-content {
+  width: 100%;
+}
+
+.app-sidebar {
+  min-height: calc(100vh - 0px);
+}
+
+/* .post-form-cont {
+  max-height: calc(100vh - 100px);
+  overflow: auto;
+} */
